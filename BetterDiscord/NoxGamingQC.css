@@ -1,11 +1,10 @@
 /**
  * @name NoxGamingQC's Theme
- * @author Jimmy Bédard
+ * @author NoxGamingQC
  * @version 1.0.0
  * @description My own personal theme
  * @source https://github.com/NoxGamingQC/themes/tree/master/BetterDiscord
 **/
-
 :root {
     /*My variables*/
     --background-color: #222222 !important;
