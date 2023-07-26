@@ -2,6 +2,7 @@
 
 A bunch of theme file that I have created. You're welcome.
 
-<p align="left">
-  <img alt="Type" src="https://img.shields.io/badge/project%20type-theme-red?style=for-the-badge" />
-</p>
+[![Type](https://img.shields.io/badge/project%20type-theme-blue?style=for-the-badge)](#)
+[![State](https://img.shields.io/badge/state-In%20development-228C22?style=for-the-badge)](#)
+[![Repo size](https://img.shields.io/github/repo-size/NoxGamingQC/themes?style=for-the-badge&logo=github&logoColor=%23ffffff)](#)
+[![License](https://img.shields.io/github/license/NoxGamingQC/themes?style=for-the-badge)](#)
